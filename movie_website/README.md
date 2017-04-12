@@ -1,9 +1,9 @@
 # Movie Trailer Website
 
-### Description
+## Description
 This includes the source code for the Movie Trailer website.  
 
-## Files
+### Files
 * entertainment_center.py: Declares several instances of the Movie class
 * fresh_tomatoes.py: Builds the HTML file
 * media.py: Contains the Movie class
